@@ -1,0 +1,1 @@
+There are three series of Raspberry Pi, and several generations of each have been released. Raspberry Pi SBCs feature a Broadcom system on a chip (SoC) with an integrated ARM-compatible central processing unit (CPU) and on-chip graphics processing unit (GPU), while Raspberry Pi Pico has a RP2040 system on chip with an integrated ARM-compatible central processing unit (CPU).
